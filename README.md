@@ -21,11 +21,11 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
+Dataset: https://bootstrapworld.org/materials/fall2021/en-us/courses/data-science/lessons/choosing-your-dataset/index.shtml#Datasets
 
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+- **Developer** (String) - name of developer
+- **Sales** (int) - number of sales
+- **Title** (String) - title of game
 
 ## UML Diagram
 
